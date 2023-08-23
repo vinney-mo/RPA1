@@ -1,2 +1,7 @@
 ## Robotic Process Automation
-This is an automation project with UiPath that automates workflows for Zoho Desk ticket creation. The automation is divided into logical sections, which are Excel processing, Zoho ticket creation, and the primary workflow that manages the entire sequence of actions.
+### Description
+This project is an automation project with UiPath that automates workflows for ticket creation on Zoho Desk. The automation is broken down into logical parts, i.e., processing Excel, Creating tickets in Zoho, and the main workflow that controls the whole sequence of activities.
+### Technologies Used
+- UiPath Studio
+- Zoho Desk Application
+- MS Excel 
